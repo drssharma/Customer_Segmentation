@@ -17,6 +17,7 @@ Clustering analysis on data
 - What is the overall trend of the dataset, are the segments dominated by males or females.
 - How is the trend in terms of Age, is it younger people or elderly people who are dominated in a particular segment. 
 - Which segment has low or which one has high spending score.
+
 Based on the analysis, marketing team can decide which type of communication to send to which segment.
 
 
