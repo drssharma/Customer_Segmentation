@@ -8,4 +8,17 @@ Most of the times in Marketing, we hear a term as ‘a group of customers who sh
 I am going to use k-means algorithms for clustering on a dataset of customers from Kaggle. The dataset mainly covers some demographic attributes of an automobile dealer’s target market of customers. I’ll be using R for this analysis after quite a sabbatical, and might therefore appear Rusty.
 
 
+### Purpose of the Analysis:
+Clustering analysis on data 
+
+
+### Research Questions:
+
+- What is the overall trend of the dataset, are the segments dominated by males or females.
+- How is the trend in terms of Age, is it younger people or elderly people who are dominated in a particular segment. 
+- Which segment has low or which one has high spending score.
+Based on the analysis, marketing team can decide which type of communication to send to which segment.
+
+
+
 
