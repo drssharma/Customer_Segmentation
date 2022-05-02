@@ -65,3 +65,19 @@ The dataset is loaded from Kaggle. It has 6718 rows and 11 columns. The dataset 
 
 ![Finanicial Status](https://user-images.githubusercontent.com/90656596/166262352-b7d5dfd2-64f5-46fb-93ab-794ffbe9f473.png)
 
+
+## Machine Learning Algorithm (K-means): 
+
+As K means clustering deals with only numerical data. We need to change all the character variables into numeric variables. To do that, first I will create 2 datasets, one for numeric and other for character variables and then I will change character varibles into numeric and later I will combine them.
+
+I transformed the character variable into numeric/dummy by using remove_most_frequent_dummy = TRUE, to avoid dummy variable trap. Now there are 18 variables in Character Data.
+
+### Standardizing the data
+
+After combining numerical and character data, I standardized the data so all the values can come in the same range.
+
+### Elbow Method
+
+
+
+
