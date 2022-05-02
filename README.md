@@ -78,6 +78,17 @@ After combining numerical and character data, I standardized the data so all the
 
 ### Elbow Method
 
+From the Elbow graph, we can see that the optimal centres value is 6.
 
+![Elbow Method](https://user-images.githubusercontent.com/90656596/166268744-6e744bd7-e488-459b-8104-504abbca5e51.png)
+
+### Customer Profiling
+
+<img width="461" alt="image" src="https://user-images.githubusercontent.com/90656596/166285677-9d0bcd9a-1731-4f28-9714-20c154654250.png">
+
+
+- Most of the customer segments are dominated by males, which is the overall trend in the underlying dataset as well. Segments 1,2 and 4 are dominated by Married persons while segment 3, 5 and 6 has more unmarried people, which is in line with the observation that it is a younger segment of customers with a minimum age of 18.
+- It is also interesting to note that the segments 2,3,5,6 with younger customers i.e. 18–45 year old have low spend scores whereas segments 1 and 4 with middle aged and elderly customers have average to high spend scores.
+Based on this analysis, the automobile dealer’s marketing team can identify what kind of communication to send to each of these segments. Segments 1 and 4 can be targeted for luxury Sedans since they have good spending scores and not typically large family sizes. Segment 2,5 can be targeted for entry level cars and Segment 3,6 can be targeted for mid sized SUVs because they have big family size with low spending score.
 
 
